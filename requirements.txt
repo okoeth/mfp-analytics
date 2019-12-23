@@ -1,0 +1,11 @@
+numpy==1.17.4
+scipy==1.4.1
+pandas==0.25.3
+pandas==0.25.3
+jupyter==1.0.0
+seaborn==0.9.0
+matplotlib==3.1.2
+bokeh==1.4.0
+geopy==1.20.0
+units==0.07
+stravalib==0.10.2
