@@ -1,5 +1,5 @@
 numpy==1.17.4
-scipy==1.4.1
+scipy==1.10.0
 pandas==0.25.3
 pandas==0.25.3
 jupyter==1.0.0
